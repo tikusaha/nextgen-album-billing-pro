@@ -1,0 +1,11 @@
+{
+  "app": "NextGen Album Billing Pro",
+  "version": "github-free-repo-ready",
+  "note": "This is a placeholder backup file. Export your live billing data from the website and upload JSON backups to data/backups/.",
+  "customers": [],
+  "items": [],
+  "bills": [],
+  "payments": [],
+  "additionalCharges": [],
+  "settings": {}
+}
